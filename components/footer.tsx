@@ -14,7 +14,7 @@ export function FooterText({ className, ...props }: React.ComponentProps<'p'>) {
     >
       Please Contact {' '}
       <ExternalLink href="https://whatsapp.com">
-        Manning's Tech
+        Mannings Tech
       </ExternalLink>
       to report issues.
     </p>
