@@ -4,7 +4,7 @@ import { redirect } from 'next/navigation'
 import { headers } from 'next/headers'
 import { Redis } from "@upstash/redis"
 
-Redis({
+new Redis({
   url: 'https://sincere-monarch-34096.upstash.io',
   token: 'AYUwAAIjcDEwZjM2YWRlMzljN2Q0ZDBlODUwOTQ3NGU0OTgwODU2MHAxMA',
 })
