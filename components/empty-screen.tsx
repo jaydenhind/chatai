@@ -11,7 +11,7 @@ export function EmptyScreen() {
           This is an AI chatbot built powerd the Google Gemini API.
         </p>
         <p className="leading-normal text-zinc-900">
-          It serves as a 24/7 cutomer service agent taylor made to assist with any inquires about The Manning's School.
+          It serves as a 24/7 cutomer service agent taylor made to assist with any inquires about The Mannings School.
         </p>
         <p className="leading-normal text-zinc-900">
           Please contact XXX-XXXX to report bugs.
